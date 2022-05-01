@@ -1,3 +1,3 @@
 # Practices
 
-Started to learn programming and these are my studies.
+Started to learn programming and these are my studies!
