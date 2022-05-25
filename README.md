@@ -3,7 +3,6 @@
 Started to learn programming and these are my studies!
 
 ## What I'm currently learning:
-* HTML
+* [HTML](https://dev.w3.org/html5/html-author/)
 * CSS
-* [Logic](https://en.wikipedia.org/wiki/Logic_programming)
 * JavaScript
